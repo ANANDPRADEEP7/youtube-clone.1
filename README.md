@@ -1,1 +1,1 @@
-https://github.com/ANANDPRADEEP7/youtube-clone.1.git
+ https://anandpradeep7.github.io/youtube-clone.1/
